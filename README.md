@@ -7,5 +7,6 @@ Documenting my journey learning the basics of Rust
 
 ## Rules of the Road
 1. Coding exercises will get their own subdirectory inside `practice/`
-2. In-Progress exercises will get their own issue, branch, and pull request to keep everything nice and tidy
-3. I will probably break these rules immediately, please forgive me
+2. Rustling exercises will live in `rustlings/`
+3. In-Progress exercises will get their own issue, branch, and pull request to keep everything nice and tidy
+4. I will probably break these rules immediately, please forgive me
